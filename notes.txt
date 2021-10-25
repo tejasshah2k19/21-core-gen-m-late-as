@@ -1,0 +1,72 @@
+tools ??? 
+
+							java-8 
+
+JDK										JRE 
+java development kit							java runtime enviornment 
+
+developer 								end user/ client 
+	jdk								 jre 
+	jre 								 jvm , jit , classloader , lib 
+									 java virtual machine 
+tools -->								 just in time 
+	40+ 								 class loader 
+ 	javac - java compile 					         library 
+	java  - execute / run 	
+	jdb   - java debugger  
+	javadoc - java document
+	javah - java header
+	appletviewer - to run an applet**
+ 
+	 
+
+
+java --> covax --> 
+
+windows 
+.c -->  .obj .exe  [system dependant code ] 
+
+linux --> .exe 
+mac --> .exe
+c is platform ind? dep? 
+
+java ??? 
+
+.java --> .class [ byte code ] [ magic code ]  --> platform ind...
+
+
+
+windows --> java install  
+	.java --> compile --> .class [ byte code ] 
+
+
+linux --> java install 
+	jre --> .class --> classloader --> jit  | error 
+					      read --> bytecode --> jvm --> run 
+
+
+mac --> java install 
+
+WORA ? java ?? 
+write once run anytime/anywhere 
+
+---------------------------------------------------
+.java --> HL --> eng => compiler + interpreter 
+
+compiler 
+interpreter 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
